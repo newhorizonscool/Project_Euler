@@ -16,8 +16,10 @@ def sum_number(number):
         if i % 3 == 0 or i % 5 == 0 :
             sum = sum + i
     return sum
-    
+
 print(sum_number(1000))
+
+# Answer: 233168
 
 
 
